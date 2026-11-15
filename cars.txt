@@ -1,0 +1,10 @@
+Toyota;Camry;2020;25000
+BMW;X5;2022;65000
+Audi;A4;2019;28000
+Mercedes;C200;2021;45000
+Honda;Civic;2018;18000
+Ford;Focus;2017;12000
+Volkswagen;Passat;2020;23000
+Hyundai;Elantra;2023;22000
+Kia;Sportage;2022;30000
+Tesla;Model 3;2023;40000
